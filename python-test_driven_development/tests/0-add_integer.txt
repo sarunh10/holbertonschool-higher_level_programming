@@ -1,3 +1,11 @@
+>>> from 0-add_integer import add_integer
+>>> add_integer(1, 2)
+3
+>>> add_integer(100, -2)
+98
+>>> add_integer(2.5, 3)
+5
+
 This is a doctest file for the add_integer function.
 
 >>> add_integer(1, 2)
