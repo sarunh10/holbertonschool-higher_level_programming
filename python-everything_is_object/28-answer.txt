@@ -1,1 +1,1 @@
-yesgit config --global user.name "sarunh10"
+yes
